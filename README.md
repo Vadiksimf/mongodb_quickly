@@ -7,7 +7,7 @@ DB > Collections > Documents
      Users/Posts | user/post
 ```
 
-## Установка MongoDB
+## Установка MongoDB Windows
 1. Установка Mongodb Community Server / Compass Community
 2. С://data/db - создание базы данных
 3. В папке mongodb - mongod.exe - запуск сервера
@@ -18,6 +18,7 @@ mongod.exe - запуск mongodb </br>
 mongo.exe  - открытие mongoshell
 
 ### -------------- Базовые команды--------------------------------------
+
 use notours-test | создание новой / подключение к существующей базе данных
 db               | получение базы данных
 show dbs         | показать базы данных
